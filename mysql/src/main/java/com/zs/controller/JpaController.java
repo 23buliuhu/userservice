@@ -3,7 +3,6 @@ package com.zs.controller;
 import com.zs.domain.User;
 import com.zs.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
